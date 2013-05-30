@@ -104,7 +104,7 @@ seajs.config({
 
 接下来我们来编写展示的页面`index.html`：
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -135,7 +135,7 @@ OK，前面的这些就是我们在开发阶段使用seajs的工作。接下来�
 1. `root`->`family`
 2. `alias`->`spm.alias`
 
-```
+```javascript
 {
     "family": "test",
     "version": "0.0.1",
